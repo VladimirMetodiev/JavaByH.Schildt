@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Comma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/ContinueToLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/DecreaseFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/EnglishAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/EnterCharactersFromTheConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/ExtendedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/FindFac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Guess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Help.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/HelpVarThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/HelpVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/IfElseIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/NoBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/SqrRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/TrickySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/WhileDifferentFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/FromThousandToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/SumTheValueOfSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/UppercaseLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/BasicTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/BasicTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/PrimeNumbersFrom2To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/PrimeNumbersFrom2To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/BreakExampleFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/BreakExampleFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +19,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeometricProgression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/GeometricProgression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumTheValueOfSymbols.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/SumTheValueOfSymbols.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UppercaseLetters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/UppercaseLetters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter2/FromLightYearsToKilometers.java" />
-        <option value="$PROJECT_DIR$/src/chapter2/PythagorasTheorem.java" />
-        <option value="$PROJECT_DIR$/src/chapter2/TheEnglishAlphabet.java" />
-        <option value="$PROJECT_DIR$/src/chapter2/IsItTrueOrNot.java" />
         <option value="$PROJECT_DIR$/src/chapter2/Sound.java" />
         <option value="$PROJECT_DIR$/src/chapter2/Echo.java" />
         <option value="$PROJECT_DIR$/src/chapter2/Tabulation.java" />
@@ -75,7 +86,6 @@
         <option value="$PROJECT_DIR$/src/chapter2/Cast.java" />
         <option value="$PROJECT_DIR$/src/chapter2/LogicalOpTable.java" />
         <option value="$PROJECT_DIR$/src/chapter2/LogicalOpTableVarTwo.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter2/AboutByteAndShort.java" />
         <option value="$PROJECT_DIR$/src/chapter2/UseCast.java" />
         <option value="$PROJECT_DIR$/src/chapter2/OneOrTwoOrThree.java" />
@@ -85,7 +95,6 @@
         <option value="$PROJECT_DIR$/src/chapter3/Guess.java" />
         <option value="$PROJECT_DIR$/src/chapter3/IfElseIfElse.java" />
         <option value="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonths.java" />
-        <option value="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java" />
         <option value="$PROJECT_DIR$/src/chapter3/Help.java" />
         <option value="$PROJECT_DIR$/src/chapter3/DecreaseFor.java" />
         <option value="$PROJECT_DIR$/src/chapter3/Comma.java" />
@@ -105,11 +114,17 @@
         <option value="$PROJECT_DIR$/src/chapter3/BreakExampleThree.java" />
         <option value="$PROJECT_DIR$/src/chapter3/BreakExampleFive.java" />
         <option value="$PROJECT_DIR$/src/chapter3/BreakExampleSix.java" />
-        <option value="$PROJECT_DIR$/src/chapter3/BreakExampleFour.java" />
         <option value="$PROJECT_DIR$/src/chapter3/ContinueExample.java" />
         <option value="$PROJECT_DIR$/src/chapter3/ContinueToLabel.java" />
         <option value="$PROJECT_DIR$/src/chapter3/HelpVarThree.java" />
         <option value="$PROJECT_DIR$/src/chapter3/FindFac.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/BreakExampleFour.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/SumTheValueOfSymbols.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/FromThousandToZero.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/GeometricProgression.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/UppercaseLetters.java" />
       </list>
     </option>
   </component>
@@ -184,9 +199,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFac">
-    <configuration name="BreakExampleFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.BreakExampleFive" />
+  <component name="RunManager" selected="Application.UppercaseLetters">
+    <configuration name="FromThousandToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.FromThousandToZero" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -196,8 +211,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BreakExampleFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.BreakExampleFour" />
+    <configuration name="GeometricProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.GeometricProgression" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -207,8 +222,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ContinueToLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.ContinueToLabel" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SumTheValueOfSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.SumTheValueOfSymbols" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -218,19 +238,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindFac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.FindFac" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HelpVarThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.HelpVarThree" />
+    <configuration name="UppercaseLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.UppercaseLetters" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -282,19 +291,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.BreakExampleFour" />
-      <item itemvalue="Application.BreakExampleFive" />
-      <item itemvalue="Application.ContinueToLabel" />
-      <item itemvalue="Application.HelpVarThree" />
-      <item itemvalue="Application.FindFac" />
+      <item itemvalue="Application.SumTheValueOfSymbols" />
+      <item itemvalue="Application.FromThousandToZero" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GeometricProgression" />
+      <item itemvalue="Application.UppercaseLetters" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFac" />
-        <item itemvalue="Application.HelpVarThree" />
-        <item itemvalue="Application.ContinueToLabel" />
-        <item itemvalue="Application.BreakExampleFive" />
-        <item itemvalue="Application.BreakExampleFour" />
+        <item itemvalue="Application.UppercaseLetters" />
+        <item itemvalue="Application.GeometricProgression" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FromThousandToZero" />
+        <item itemvalue="Application.SumTheValueOfSymbols" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +326,7 @@
       <workItem from="1614581111360" duration="13678000" />
       <workItem from="1614758398224" duration="29627000" />
       <workItem from="1614838949988" duration="35000" />
-      <workItem from="1614839065793" duration="5615000" />
+      <workItem from="1614839065793" duration="10585000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -333,14 +342,22 @@
       <option name="project" value="LOCAL" />
       <updated>1614595104641</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added a Chapter 2">
+      <created>1614845273310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614845273310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96985000" />
+    <option name="totallyTimeSpent" value="101955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -352,11 +369,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926794" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,7 +424,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Chapter 1" />
     <MESSAGE value="Added Chapter 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 2" />
+    <MESSAGE value="Added a Chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a Chapter 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -437,38 +455,10 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="30" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter2/Tabulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2/VolumeOfCylinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2/VarInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/Keywords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" column="55" selection-start-line="93" selection-start-column="55" selection-end-line="93" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/DifferencesBetweenIntAndDouble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -539,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter2/OneOrTwoOrThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -578,6 +561,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -637,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3/ForTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -672,17 +651,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/TrickySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3/Power.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -739,6 +714,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -753,13 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/BreakExampleFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -799,6 +770,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/BreakExampleFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/TrickySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/TheSwitchStatementMonthsVarTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/FromThousandToZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/GeometricProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/SumTheValueOfSymbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/UppercaseLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

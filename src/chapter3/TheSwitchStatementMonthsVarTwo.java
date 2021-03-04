@@ -19,7 +19,7 @@ public class TheSwitchStatementMonthsVarTwo {
         }
 
         int numberOfDays = getNumberOfDays(month, year);
-        System.out.printf("The number of days in %s of %d if: %d", month, year, numberOfDays);
+        System.out.printf("The number of days in %s of %d is: %d", month, year, numberOfDays);
     }
 
     private static String getMonth(int numMonth){
@@ -122,4 +122,4 @@ public class TheSwitchStatementMonthsVarTwo {
 //2
 //1992
 //Output
-//The number of days in February of 1992 if: 29
+//The number of days in February of 1992 is: 29
