@@ -13,7 +13,7 @@ public class EnterCharactersFromTheConsole {
         System.out.println("Press a key followed by Enter: ");
 
         for(int a = 0; a < 2 * number; a++){
-            char letter = (char)System.in.read();       // Преди всеки нов символ, има нов ред
+            char letter = (char)System.in.read();       // След всеки нов символ, има нов ред
             if(letter != 10) word.append(letter);
         }
 

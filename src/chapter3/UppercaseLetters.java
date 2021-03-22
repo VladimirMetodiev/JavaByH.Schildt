@@ -14,7 +14,12 @@ public class UppercaseLetters {
                 continue;
             }
             counter++;
-            list.add((char)(letter - 32));
+            if(letter >= 'A' & letter <= 'Z') {
+                list.add(letter);
+            }
+            else {
+                list.add((char)(letter - 32));
+            }
         }
 
         list.forEach(e -> System.out.print(e + " "));
@@ -37,3 +42,21 @@ public class UppercaseLetters {
 //.
 //O C S M F
 //The letters are: 5
+
+
+//v
+//I
+//c
+//t
+//O
+//R
+//y
+//.
+//V I C T O R Y
+//The letters are: 7
+
+
+//D
+//.
+//D
+//Only one letter!
