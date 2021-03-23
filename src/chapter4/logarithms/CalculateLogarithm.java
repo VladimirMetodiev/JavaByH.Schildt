@@ -1,6 +1,5 @@
 package chapter4.logarithms;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class CalculateLogarithm {

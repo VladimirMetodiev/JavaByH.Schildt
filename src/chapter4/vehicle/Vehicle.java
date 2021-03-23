@@ -4,7 +4,7 @@ public class Vehicle {
     String producer = null;
     String model = null;
     int passengers = 0;                     // number of passengers
-    int fuelCapacity = 0;                   // fuel capacity in gallons
+    int fuelCapacity = 0;                   // fuel capacity in liters
     double kilometersPerLiter = 0.0;        // fuel consumption in kilometers per liter
 
     public Vehicle() {

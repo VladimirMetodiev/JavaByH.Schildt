@@ -6,7 +6,7 @@ public class Logarithm {
     double base = 0d;
     double logNumber = 0d;
 
-    DecimalFormat df = new DecimalFormat("0.######");
+    DecimalFormat df = new DecimalFormat("0.########");
 
     public Logarithm(double base, double logNumber) {
         this.base = base;
@@ -14,8 +14,7 @@ public class Logarithm {
     }
 
     double customLog() {
-        if (base == 0){ return 0; }
-        else if(base == 1) { return 1; }
+        if(base == 1) { return 1; }
         return Math.log(logNumber) / Math.log(base);
     }
 
