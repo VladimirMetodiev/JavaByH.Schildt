@@ -6,10 +6,11 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         SomeQueues myQueue = new SomeQueues();
+        SomeQueues picture = null;
         String command;
         int num = 0;
 
-        System.out.println("Choose: \"end\", \"offer\", \"poll\" or \"print\".");
+        printMessage();
 
         while (!(command = input.nextLine().toLowerCase()).equals("end")){
             switch (command){
@@ -30,17 +31,31 @@ public class Main {
                     }
                     break;
                 }
+                case "take picture": {
+                    picture = new SomeQueues(myQueue);
+                    break;
+                }
                 case "print": {
                     myQueue.print();
+                    break;
+                }
+                case "print picture": {
+                    try {
+                        picture.print();
+                    }
+                    catch (NullPointerException ex){
+                        System.out.println("No picture!");
+                    }
+                    break;
                 }
                 default: break;
             }
 
-            if(command.equals("poll")){
-
-            }
-
-            System.out.println("Choose: \"end\", \"offer\", \"poll\" or \"print\".");
+            printMessage();
         }
+    }
+
+    private static void printMessage(){
+        System.out.println("Choose: \"end\", \"offer\", \"poll\", \"take picture\", \"print\" or \"print picture\".");
     }
 }

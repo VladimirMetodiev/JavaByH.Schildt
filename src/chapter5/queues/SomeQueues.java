@@ -11,6 +11,16 @@ public class SomeQueues {
     public SomeQueues() {
     }
 
+    public SomeQueues(SomeQueues obj) {
+        this.queue = new int[obj.queue.length];
+        this.head = obj.head;
+        this.tail = obj.tail;
+
+        for (int a = 0; a < tail; a++) {
+            this.queue[a] = obj.queue[a];
+        }
+    }
+
     public void offer(int element){
         if(tail == queue.length - 1){
             increasesTheSize();
