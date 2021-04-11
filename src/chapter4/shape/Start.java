@@ -16,7 +16,7 @@ public class Start {
                     a = Double.parseDouble(input.nextLine());
                     h = Double.parseDouble(input.nextLine());
                     Rectangle rectangle = new Rectangle(a, h);
-                    System.out.printf("Rectangle area = %.2f%n", rectangle.calculateArea());
+                    System.out.printf("Quadrangle area = %.2f%n", rectangle.calculateArea());
                     break;
                 }
                 case "rhombus": {
