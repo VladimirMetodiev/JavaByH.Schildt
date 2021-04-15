@@ -2,37 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/vehicle/Lorry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/vehicle/StartLorry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/AbstractShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Displayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Parallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/abstractClass/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/errors/ErrorMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/errors/TestFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodDispatch/DynamicDispatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodDispatch/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodOverriding/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodOverriding/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/methodOverriding/Superclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/CalculateCircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/ColourTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/Quadrangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/Trapezium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/shapes/TwoDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/useSuper/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/useSuper/SubClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/useSuper/SupSubRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/useSuper/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/useSuper/UseSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/MyScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Perform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/SetOfConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/anotherQueues/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/anotherQueues/QueueRealization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/anotherQueues/StartTheQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/books/BookDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/books/MyScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/bookshop/BookStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/bookshop/Bookshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/defaultMethod/AnotherID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/defaultMethod/DefaultMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/defaultMethod/GetID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/defaultMethod/GetID2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/defaultMethod/MyIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/numberSeries/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/numberSeries/NumericalSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/numberSeries/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/staticMethodInInterface/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/vehicles/AnotherVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/vehicles/InterfaceVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/vehicles/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter4/shape/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/shape/Start.java" afterDir="false" />
     </list>
@@ -45,17 +38,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TwoDimensionalShape.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/shapes/TwoDimensionalShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,38 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter6/stacks/SomeStack.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/stacks/IntegerStack.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/stacks/StringStack.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/stacks/Main.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/swapVariables/Swap.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/swapVariables/Test.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/recursion/StartRecursion3.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/recursion/Recursion3.java" />
-        <option value="$PROJECT_DIR$/src/chapter6/Sum.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/Quadrangle.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/TwoDimensionalShape.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/vehicle/Lorry.java" />
-        <option value="$PROJECT_DIR$/src/chapter4/vehicle/StartLorry.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/useSuper/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/useSuper/SuperClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/useSuper/SubClassTwo.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/useSuper/UseSuper.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/useSuper/SupSubRef.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodOverriding/Superclass.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodOverriding/Main.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodOverriding/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/Sup.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/Sub1.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/DynDispDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/Sub2.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/SuperClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass1.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass2.java" />
-        <option value="$PROJECT_DIR$/src/chapter7/methodDispatch/DynamicDispatchDemo.java" />
         <option value="$PROJECT_DIR$/src/chapter7/shapes/ColourTriangle.java" />
         <option value="$PROJECT_DIR$/src/chapter7/shapes/Shapes.java" />
         <option value="$PROJECT_DIR$/src/chapter7/shapes/Trapezium.java" />
@@ -122,6 +73,38 @@
         <option value="$PROJECT_DIR$/src/chapter7/shapes/TwoDimensionalShape.java" />
         <option value="$PROJECT_DIR$/src/chapter7/shapes/Circle.java" />
         <option value="$PROJECT_DIR$/src/chapter7/shapes/CalculateCircleArea.java" />
+        <option value="$PROJECT_DIR$/src/chapter4/shape/Start.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/BookDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/Book.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/books/BookDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/books/Book.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/bookshop/Bookshop.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/bookshop/BookStorage.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/numberSeries/Series.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/numberSeries/NumericalSeries.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/anotherQueues/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/anotherQueues/StartTheQueue.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/anotherQueues/QueueRealization.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/SetOfConstants.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/defaultMethod/MyIF.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/defaultMethod/GetID.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/defaultMethod/DefaultMethodDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/defaultMethod/GetID2.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/defaultMethod/AnotherID.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/numberSeries/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/Experimental.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/MyScanner.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/getMethod/ParentInterface.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/getMethod/SubClass.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/getMethod/Superclass.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/getMethod/Main.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/getMethod/ChildInterface.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/Perform.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/staticMethodInInterface/Start.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/vehicles/InterfaceVehicle.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/vehicles/AnotherVehicle.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/vehicles/Run.java" />
       </list>
     </option>
   </component>
@@ -146,8 +129,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,14 +147,7 @@
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="shapes" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
@@ -203,58 +179,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculateCircleArea">
-    <configuration name="CalculateCircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.shapes.CalculateCircleArea" />
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="AnotherID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.defaultMethod.AnotherID" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.shapes.*" />
+          <option name="PATTERN" value="chapter8.defaultMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DynamicDispatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.methodDispatch.DynamicDispatchDemo" />
+    <configuration name="DefaultMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.defaultMethod.DefaultMethodDemo" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.methodDispatch.*" />
+          <option name="PATTERN" value="chapter8.defaultMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.shapes.Shapes" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.Matrix" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.shapes.*" />
+          <option name="PATTERN" value="chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.vehicles.Run" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.vehicles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.abstractClass.Start" />
+      <option name="MAIN_CLASS_NAME" value="chapter8.staticMethodInInterface.Start" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.abstractClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.errors.TestFinal" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7.errors.*" />
+          <option name="PATTERN" value="chapter8.staticMethodInInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,19 +277,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Shapes" />
-      <item itemvalue="Application.DynamicDispatchDemo" />
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="Application.DefaultMethodDemo" />
+      <item itemvalue="Application.AnotherID" />
       <item itemvalue="Application.Start" />
-      <item itemvalue="Application.TestFinal" />
-      <item itemvalue="Application.CalculateCircleArea" />
+      <item itemvalue="Application.Run" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateCircleArea" />
-        <item itemvalue="Application.TestFinal" />
+        <item itemvalue="Application.Run" />
         <item itemvalue="Application.Start" />
-        <item itemvalue="Application.Shapes" />
-        <item itemvalue="Application.DynamicDispatchDemo" />
+        <item itemvalue="Application.AnotherID" />
+        <item itemvalue="Application.DefaultMethodDemo" />
+        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +332,12 @@
       <workItem from="1617858565317" duration="21486000" />
       <workItem from="1617947141184" duration="5455000" />
       <workItem from="1618053132987" duration="12434000" />
-      <workItem from="1618117071706" duration="16636000" />
+      <workItem from="1618117071706" duration="18434000" />
+      <workItem from="1618204040273" duration="7025000" />
+      <workItem from="1618235228920" duration="13266000" />
+      <workItem from="1618290426602" duration="14229000" />
+      <workItem from="1618377588016" duration="7771000" />
+      <workItem from="1618478512107" duration="9068000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -407,15 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617894860361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Chapter 7 and added classes Lorry and StartLorry in package chapter4.vehicle;">
+      <created>1618142338421</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618142338421</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290839000" />
+    <option name="totallyTimeSpent" value="343996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -427,13 +414,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926794" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -445,6 +431,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +474,8 @@
     <MESSAGE value="Added Chapter 4" />
     <MESSAGE value="Added Chapter 5" />
     <MESSAGE value="Added Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 6" />
+    <MESSAGE value="Added Chapter 7 and added classes Lorry and StartLorry in package chapter4.vehicle;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 7 and added classes Lorry and StartLorry in package chapter4.vehicle;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,324 +509,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter5/queues/IntegerStack.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter6/stacks/IntegerStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/stacks/SomeStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/queues/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/queues/SomeQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/swapVariables/Swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/recursion/StartRecursion3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/recursion/Recursion3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/ValueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/errors/StartErr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/errors/ErrorMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/swapVariables/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/stacks/StringStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/stacks/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartTravelling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartRetroCars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/Lorry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartLorry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/useSuper/SupSubRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/useSuper/SubClassTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/useSuper/SubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/useSuper/UseSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/useSuper/SuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodOverriding/Superclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodOverriding/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodOverriding/SubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodDispatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodDispatch/DynamicDispatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodDispatch/SubClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/methodDispatch/SuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#68#69#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/shapes/Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/shapes/Trapezium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/shapes/ColourTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/shapes/Quadrangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/abstractClass/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/abstractClass/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter7/abstractClass/Rhombus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,12 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,36 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
-            <element signature="e#1617#1618#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/abstractClass/AbstractShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,10 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -945,6 +576,340 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/shape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/shape/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/shape/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/abstractClass/AbstractShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/Numbers.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter8/books/MyScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/books/BookDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/books/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/bookshop/Bookshop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/bookshop/BookStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/defaultMethod/GetID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/defaultMethod/DefaultMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/defaultMethod/MyIF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/defaultMethod/GetID2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/defaultMethod/AnotherID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/SetOfConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/numberSeries/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/numberSeries/NumericalSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/numberSeries/Series.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/Experimental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/MyScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/getMethod/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/getMethod/Superclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/getMethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/getMethod/ParentInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/getMethod/ChildInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/staticMethodInInterface/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/Perform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/anotherQueues/QueueRealization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/anotherQueues/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/anotherQueues/StartTheQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/Lorry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/vehicles/InterfaceVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartRetroCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartTravelling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartTwoVehicles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/StartVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/vehicle/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/vehicles/AnotherVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1395#1396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/vehicles/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
