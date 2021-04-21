@@ -2,45 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10/AverageValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/BufferedReaderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/BufferedWriterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/CompareFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/DataOutputStreamClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/EnterACommandFromTheConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileInputStreamClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileOutputStreamClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileReaderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/FileWriterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/MethodRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/MethodWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/PrintWriterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/RandomAccessFileClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/TryWithResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/infoSystem/FileHelp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/infoSystem/Help.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/myDictionary/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/myDictionary/FindAWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/CopyOfHerringGull.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/CopyOfNorthernFulmar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/CopyOfShowText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/CopyOfShowText2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/CopyOfTheGreatFrigatebird.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/Data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/ExchangeRates.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/Glossary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/HelpFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/HerringGull.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/NorthernFulmar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/ShowText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/TheGreatFrigatebird.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/Words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/BreakOutOfWhileWithHasNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFileVarTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/SpaceToHyphen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/ReadConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/ReadConsole.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,56 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Help.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/Help.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileHelp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/FileHelp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dictionary.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary/Dictionary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindAWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary/FindAWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,12 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter9/ThrowDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ThrowDemoVarTwo.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ExceptionDemo4.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ExceptionDemo5.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ExceptionDemo6.java" />
         <option value="$PROJECT_DIR$/src/chapter9/NestedTryCatch.java" />
         <option value="$PROJECT_DIR$/src/chapter9/UseThrowableMethods.java" />
         <option value="$PROJECT_DIR$/src/chapter9/UseFinally.java" />
@@ -167,6 +80,12 @@
         <option value="$PROJECT_DIR$/src/chapter10/myDictionary/FindAWord.java" />
         <option value="$PROJECT_DIR$/text/Glossary.txt" />
         <option value="$PROJECT_DIR$/src/chapter10/myDictionary/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/ScannerClass.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/BreakOutOfWhileWithHasNext.java" />
+        <option value="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFile.java" />
+        <option value="$PROJECT_DIR$/text/SpaceToHyphen.txt" />
+        <option value="$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt" />
+        <option value="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFileVarTwo.java" />
       </list>
     </option>
   </component>
@@ -207,13 +126,6 @@
               <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-              <item name="myDictionary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
@@ -261,9 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindAWord">
-    <configuration name="AverageValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.AverageValue" />
+  <component name="RunManager" selected="Application.ChangeASpaceToAHyphenInATextFileVarTwo">
+    <configuration name="BreakOutOfWhileWithHasNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.BreakOutOfWhileWithHasNext" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,19 +185,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FileHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.infoSystem.FileHelp" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter10.infoSystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FileReaderClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.FileReaderClass" />
+    <configuration name="ChangeASpaceToAHyphenInATextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.ChangeASpaceToAHyphenInATextFile" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -295,8 +196,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FileWriterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.FileWriterClass" />
+    <configuration name="ChangeASpaceToAHyphenInATextFileVarTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.ChangeASpaceToAHyphenInATextFileVarTwo" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -313,6 +214,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter10.myDictionary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.ScannerClass" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,19 +271,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FileWriterClass" />
-      <item itemvalue="Application.FileReaderClass" />
-      <item itemvalue="Application.AverageValue" />
-      <item itemvalue="Application.FileHelp" />
       <item itemvalue="Application.FindAWord" />
+      <item itemvalue="Application.ScannerClass" />
+      <item itemvalue="Application.BreakOutOfWhileWithHasNext" />
+      <item itemvalue="Application.ChangeASpaceToAHyphenInATextFile" />
+      <item itemvalue="Application.ChangeASpaceToAHyphenInATextFileVarTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChangeASpaceToAHyphenInATextFileVarTwo" />
+        <item itemvalue="Application.ChangeASpaceToAHyphenInATextFile" />
+        <item itemvalue="Application.BreakOutOfWhileWithHasNext" />
+        <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.FindAWord" />
-        <item itemvalue="Application.FileHelp" />
-        <item itemvalue="Application.AverageValue" />
-        <item itemvalue="Application.FileReaderClass" />
-        <item itemvalue="Application.FileWriterClass" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +339,7 @@
       <workItem from="1618808682358" duration="25731000" />
       <workItem from="1618845608518" duration="9561000" />
       <workItem from="1618903833901" duration="9045000" />
-      <workItem from="1618984341564" duration="10517000" />
+      <workItem from="1618984341564" duration="22836000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -499,11 +411,18 @@
       <option name="project" value="LOCAL" />
       <updated>1618681922005</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added Chapter 10 - I/O">
+      <created>1618996801308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618996801309</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435624000" />
+    <option name="totallyTimeSpent" value="447943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -518,11 +437,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926794" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33070865" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33070865" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -581,7 +500,8 @@
     <MESSAGE value="Added Chapter 7 and added classes Lorry and StartLorry in package chapter4.vehicle;" />
     <MESSAGE value="Added Chapter 8" />
     <MESSAGE value="Added Chapter 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 9" />
+    <MESSAGE value="Added Chapter 10 - I/O" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 10 - I/O" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -611,34 +531,10 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="51" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter8/anotherQueues/QueueRealization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/anotherQueues/QueueEmptyException.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter9/anotherQueues/QueueRealization.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter9/anotherQueues/StartTheQueue.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter9/ThrowDemoVarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text/ShowText.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
@@ -773,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/FileInputStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_281/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -886,25 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/FileHelp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/Help.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text/HelpFile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -919,10 +789,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/Help.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/FileHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary/FindAWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -931,11 +820,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary/Dictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/BreakOutOfWhileWithHasNext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/ScannerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/FileInputStreamClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/SpaceToHyphen.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFileVarTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
