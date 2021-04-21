@@ -1,0 +1,179 @@
+#business
+['biznəs, 'biznis] - бизнес; работа
+
+#economy
+[i'kɔnəmi] - икономика; стопанство
+
+#economics
+[i:kə'nɔmiks] - икономика; (бел. economics - икономиката, като стопанска наука)
+
+#market
+['ma:kit] - пазар; пазарен
+
+#marketing
+['ma:rkitiŋ] - маркетинг
+
+#sale
+[seil] - продажба; продаване
+
+#finance
+['fainæns, fai'næns] - финанси; парични средства; финансирам
+
+#financial
+[fai'nænʃəl] - финансов; паричен
+
+#accounting
+[ə'kauntiŋ] - счетоводство
+
+#account
+[ə'kaunt] - сметка; отчет; давам сметка
+
+#budget
+['bʌdʒit] - бюджет
+
+#budgeting
+['bʌdʒitiŋ] - бюджетиране; финансово планиране; съставяне на бюджет
+
+#bank
+[bæŋk] - банка; влагам пари в банка; резерва
+
+#banking
+['bæŋkiŋ] - банково дело; банкерство
+
+#loan
+[ləun, loun] - заем; давам на заем
+
+#creditor
+['kreditə] - кредитор
+
+#borrower
+['bɔrəuər] - кредитополучател
+
+#credit
+['kredit] - кредит; дясната страна на сметка; споразумение за заемане на пари
+
+#debit
+['debit] - дебит; лявата страна на сметка
+
+#advertisement
+[ædvər'taizmənt] - реклама; рекламиране
+
+#advertising
+['ædvərtaiziŋ] - рекламиране
+
+#advertise
+['ædvətaiz] - рекламирам
+
+#distributor
+[di'stribjətər] - дистрибутор; представител; пласьор
+
+#tax
+[tæks] - данък; облагам с данък
+
+#value-added tax
+[vælju: 'ædid tæks] - данък върху добавената стойност
+
+#income tax
+['inkʌm tæks] - подоходен данък; данъкът върху общия доход
+
+#corporation tax
+[kɔ:pər'eiʃən tæks] - корпоративен данък
+
+#capital
+['kæpitl] - капитал; състояние
+
+#capital market
+['kæpitl 'ma:kit] - капиталов пазар
+
+#capital equipment
+['kæpitl i'kwipmənt] - средства за производство
+
+#capital goods
+['kæpitl guds] - средства за производство; основни фондове
+
+#capital stock
+['kæpitl stɔk] - основен капитал
+
+#share
+[ʃeə] - акция; дял
+
+#stock
+[stɔk, sta:k] - акция
+
+#ordinary share
+['ɔ:dinəri ʃeə] - обикновена акция
+
+#common stock
+['kɔmən stɔk ] - обикновена акция
+
+#share certificate
+[ʃeə sə'tifikət] - акционерен сертификат; дялов сертификат; удостоверение за притежание на акция
+
+#stock certificate
+[stɔk sə'tifikət] - акционерен сертификат
+
+#entrepreneur
+[ɔntrəprə'nə:] - предприемач
+
+#entrepreneurial
+[ɔntrəprə'nə:riəl] - предприемачески
+
+#entrepreneurship
+[ɔntrəprə'nə:ʃip] - предприемачество
+
+#manufacturer
+[mænju'fæktʃərər] - производител; фабрикант
+
+#shareholder
+['ʃeəhəuldər] - акционер
+
+#stockholder
+['sta:khouldər] - (ам.) акционер
+
+#lead
+[li:d] - водя; ръководя; командвам
+
+#leading
+['li:diŋ] - ръководство; лидерство; водачество; ръководен; водещ
+
+#leadership
+['li:dəʃip] - водачество; ръководство; качества на водач; командване
+
+#manage
+['mænidʒ] - ръководя; управлявам
+
+#management
+['mænidʒmənt] - ръководство; управление; мениджмънт
+
+#enterprise
+['entəpraiz] - предприятие
+
+#factory
+['fæktəri] - фабрика; завод
+
+#logistics
+[lə'dʒistiks] - логистика
+
+#human resources
+['hju:mən ri'sɔ:siz] - човешки ресурси
+
+#import
+[im'pɔ:t, 'impɔ:t] - внасям; внос
+
+#export
+[ik'spɔ:t, 'ekspɔ:rt] - изнасям; износ
+
+#importer
+[im'pɔ:tə] - вносител; импортьор
+
+#exporter
+[ek'spɔ:tə] - износител; експортьор
+
+#venture
+['ventʃə] - риск; рискована работа; търговска спекулация; рискувам; спекулирам
+
+#venture capital
+['ventʃə kæpitəl] - рисков капитал; капитал инвестиран в рисково предприятие
+
+#joint venture
+[dʒɔint 'ventʃə] - съвместно предприятие

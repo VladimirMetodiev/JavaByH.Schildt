@@ -1,0 +1,12 @@
+punctuation
+stress mark
+apostrophe
+comma
+semicolon
+colon
+question mark
+exclamation mark
+quotation marks
+inverted commas
+parenthesis
+hyphen

@@ -12,9 +12,9 @@ public class ReadConsole {
         try{
             isr = new InputStreamReader(System.in);
 
-            System.out.println("Enter '*' to quit.");
+            System.out.println("Press \"Enter\" to quit.");
 
-            while ((letter = (char) isr.read()) != '*'){
+            while ((letter = (char) isr.read()) != (char)10){
                 expression.append(letter);
             }
 
