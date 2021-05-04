@@ -15,7 +15,7 @@ Java: A Beginner's Guide by Herbert Schildt
 | 8 | [Packages and Interfaces](./src/chapter8) |
 | 9 | [Exception Handling](./src/chapter9) |
 | 10 | [Using I/O](./src/chapter10) |
-| 11 | [Multithreaded Programming] |
+| 11 | [Multithreaded Programming](./src/chapter11) |
 | 12 | [Enumerations, Autoboxing, Static Import, and Annotations]|
 | 13 | [Generics] |
 | 14 | [Lambda Expressions and Method References] |

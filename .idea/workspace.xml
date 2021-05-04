@@ -2,13 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10/BreakOutOfWhileWithHasNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFileVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/ScannerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/SpaceToHyphen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/MainThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/UseMainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/AnotherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/multipleThreads/MoreThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/multipleThreads/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/StartSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/ClassWithSynchronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/NotSynchronizedMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/StartSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/OneHundredAndFirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/Suspend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theFirstExample/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theFirstExample/UseThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/SomeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/UseExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theSecondExample/OtherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theSecondExample/UseThreadVarTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theThirdThread/TheThirdThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/theThirdThread/UseTheThirdThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/threadPriority/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/threadPriority/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/tickTackClock/EntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/tickTackClock/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/tickTackClock/TickTack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,41 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter9/NestedTryCatch.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/UseThrowableMethods.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/UseFinally.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/FinallyDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/MultiCatch.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/myException/NonIntResultException.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/myException/CustomExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter8/anotherQueues/QueueEmptyException.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/anotherQueues/QueueRealization.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/anotherQueues/StartTheQueue.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/MethodRead.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/FileInputStreamClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarTwo.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarThree.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/FileOutputStreamClass.java" />
-        <option value="$PROJECT_DIR$/text/ShowText.txt" />
-        <option value="$PROJECT_DIR$/src/chapter10/EnterACommandFromTheConsole.java" />
-        <option value="$PROJECT_DIR$/text/TheGreatFrigatebird.txt" />
-        <option value="$PROJECT_DIR$/src/chapter10/TryWithResources.java" />
-        <option value="$PROJECT_DIR$/text/CopyOfTheGreatFrigatebird.txt" />
-        <option value="$PROJECT_DIR$/text/Data.txt" />
-        <option value="$PROJECT_DIR$/src/chapter10/DataOutputStreamClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter9/ReadConsole.java" />
-        <option value="$PROJECT_DIR$/text/CopyOfShowText.txt" />
-        <option value="$PROJECT_DIR$/text/CopyOfShowText2.txt" />
-        <option value="$PROJECT_DIR$/src/chapter10/CompareFiles.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/MethodWrite.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/RandomAccessFileClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/BufferedReaderClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarTwo.java" />
-        <option value="$PROJECT_DIR$/text/HerringGull.txt" />
-        <option value="$PROJECT_DIR$/text/CopyOfHerringGull.txt" />
-        <option value="$PROJECT_DIR$/src/chapter10/BufferedWriterClass.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarThree.java" />
-        <option value="$PROJECT_DIR$/src/chapter10/PrintWriterClass.java" />
         <option value="$PROJECT_DIR$/src/chapter10/FileWriterClass.java" />
         <option value="$PROJECT_DIR$/text/Words.txt" />
         <option value="$PROJECT_DIR$/src/chapter10/FileReaderClass.java" />
@@ -86,6 +73,41 @@
         <option value="$PROJECT_DIR$/text/SpaceToHyphen.txt" />
         <option value="$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt" />
         <option value="$PROJECT_DIR$/src/chapter10/ChangeASpaceToAHyphenInATextFileVarTwo.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theFirstExample/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theFirstExample/UseThreads.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theSecondExample/UseThreadVarTwo.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theSecondExample/OtherThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theThirdThread/UseTheThirdThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theThirdThread/TheThirdThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/UseExtendThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/SomeThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/multipleThreads/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/multipleThreads/MoreThreads.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/anotherThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/AnotherThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/Threads.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/MainThreadPriority.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/chapter11/threadPriority/Priority.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/threadPriority/PriorityDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/startSummation.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/SumArray.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/StartSummation.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/NotSynchronizedMethod.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/ClassWithSynchronizedBlock.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/startSum.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/StartSum.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTockClock/TickTock.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTackClock/TickTock.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTackClock/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTackClock/TickTack.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTackClock/EntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/OneHundredAndFirstThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/Suspend.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/UseMainThread.java" />
+        <option value="$PROJECT_DIR$/src/chapter11/tickTackClock/NewThread.java" />
       </list>
     </option>
   </component>
@@ -109,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,17 +146,6 @@
             </path>
             <path>
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
-              <item name="text" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -141,14 +153,13 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaDevelopment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -173,58 +184,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChangeASpaceToAHyphenInATextFileVarTwo">
-    <configuration name="BreakOutOfWhileWithHasNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.BreakOutOfWhileWithHasNext" />
+  <component name="RunManager" selected="Application.EntryPoint">
+    <configuration name="EntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.tickTackClock.EntryPoint" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter11.tickTackClock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ChangeASpaceToAHyphenInATextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.ChangeASpaceToAHyphenInATextFile" />
+    <configuration name="MainThreadPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.MainThreadPriority" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ChangeASpaceToAHyphenInATextFileVarTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.ChangeASpaceToAHyphenInATextFileVarTwo" />
+    <configuration name="StartSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.sumSynchronizedBlock.StartSum" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter11.sumSynchronizedBlock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindAWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.myDictionary.FindAWord" />
+    <configuration name="Suspend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.suspendingResumingStopping.Suspend" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.myDictionary.*" />
+          <option name="PATTERN" value="chapter11.suspendingResumingStopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.ScannerClass" />
+    <configuration name="UseMainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.UseMainThread" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,19 +282,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FindAWord" />
-      <item itemvalue="Application.ScannerClass" />
-      <item itemvalue="Application.BreakOutOfWhileWithHasNext" />
-      <item itemvalue="Application.ChangeASpaceToAHyphenInATextFile" />
-      <item itemvalue="Application.ChangeASpaceToAHyphenInATextFileVarTwo" />
+      <item itemvalue="Application.StartSum" />
+      <item itemvalue="Application.EntryPoint" />
+      <item itemvalue="Application.Suspend" />
+      <item itemvalue="Application.MainThreadPriority" />
+      <item itemvalue="Application.UseMainThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChangeASpaceToAHyphenInATextFileVarTwo" />
-        <item itemvalue="Application.ChangeASpaceToAHyphenInATextFile" />
-        <item itemvalue="Application.BreakOutOfWhileWithHasNext" />
-        <item itemvalue="Application.ScannerClass" />
-        <item itemvalue="Application.FindAWord" />
+        <item itemvalue="Application.EntryPoint" />
+        <item itemvalue="Application.UseMainThread" />
+        <item itemvalue="Application.MainThreadPriority" />
+        <item itemvalue="Application.Suspend" />
+        <item itemvalue="Application.StartSum" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +350,13 @@
       <workItem from="1618808682358" duration="25731000" />
       <workItem from="1618845608518" duration="9561000" />
       <workItem from="1618903833901" duration="9045000" />
-      <workItem from="1618984341564" duration="22836000" />
+      <workItem from="1618984341564" duration="25623000" />
+      <workItem from="1619069918003" duration="1465000" />
+      <workItem from="1619270874616" duration="594000" />
+      <workItem from="1619328767723" duration="13376000" />
+      <workItem from="1619686143106" duration="8579000" />
+      <workItem from="1620051565499" duration="588000" />
+      <workItem from="1620116608896" duration="15808000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -418,14 +435,28 @@
       <option name="project" value="LOCAL" />
       <updated>1618996801309</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Chapter 10">
+      <created>1619012582158</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619012582158</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Experiment">
+      <created>1619013787753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619013787753</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447943000" />
+    <option name="totallyTimeSpent" value="491140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,6 +474,7 @@
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -454,7 +486,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +532,9 @@
     <MESSAGE value="Added Chapter 8" />
     <MESSAGE value="Added Chapter 9" />
     <MESSAGE value="Added Chapter 10 - I/O" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 10 - I/O" />
+    <MESSAGE value="Added Chapter 10" />
+    <MESSAGE value="Experiment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -535,202 +568,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text/ShowText.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfNorthernFulmar.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/FileInputStreamClassVarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/TheGreatFrigatebird.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfTheGreatFrigatebird.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/NorthernFulmar.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/EnterACommandFromTheConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/TryWithResources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/myException/CustomExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/Data.bin">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/Data.txt" />
-    <entry file="file://$PROJECT_DIR$/src/chapter9/ReadConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/FileOutputStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/CompareFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/MethodWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/DataOutputStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/exchangeRates.txt" />
-    <entry file="file://$PROJECT_DIR$/src/chapter10/MethodRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/RandomAccessFileClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_281/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="332" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_281/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="388" selection-start-line="388" selection-end-line="388" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CopyOfHerringGull.txt" />
-    <entry file="file://$PROJECT_DIR$/text/HerringGull.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfHerringGull.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/BufferedReaderClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/BufferedWriterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/BufferedReaderClassVarThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/PrintWriterClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -738,16 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text/Words.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/FileReaderClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,42 +593,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/HelpFile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/Glossary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/myDictionary.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter10/infoSystem/Help.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -842,9 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,9 +665,258 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theThirdThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theThirdThread/UseTheThirdThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/multipleThreads/MoreThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/multipleThreads/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theThirdThread/TheThirdThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/AnotherThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/anotherMultipleThreads/Threads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/threadPriority/Priority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/threadPriority/PriorityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theSecondExample/OtherThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theSecondExample/UseThreadVarTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/UseExtendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theFourthExampleExtendThread/SomeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theFirstExample/UseThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/theFirstExample/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/NotSynchronizedMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/SumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumNumbersInTheArray/StartSummation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/ClassWithSynchronizedBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/sumSynchronizedBlock/StartSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/tickTockClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/Glossary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/HelpFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/HerringGull.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/Words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/Suspend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/suspendingResumingStopping/OneHundredAndFirstThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/UseMainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/MainThreadPriority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/tickTackClock/NewThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/tickTackClock/TickTack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/tickTackClock/EntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
