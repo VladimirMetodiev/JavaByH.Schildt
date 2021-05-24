@@ -4,22 +4,22 @@ public class TestConstructors {
     private int x;
 
     TestConstructors() {
-        System.out.println("Inside MyClass().");
+        System.out.println("Inside NewClass().");
         x = 0;
     }
 
     TestConstructors(int i) {
-        System.out.println("Inside MyClass(int).");
+        System.out.println("Inside NewClass(int).");
         x = i;
     }
 
     TestConstructors(double d) {
-        System.out.println("Inside MyClass(double).");
+        System.out.println("Inside NewClass(double).");
         x = (int) d;
     }
 
     TestConstructors(int i, int j) {
-        System.out.println("Inside MyClass(int, int).");
+        System.out.println("Inside NewClass(int, int).");
         x = i * j;
     }
 

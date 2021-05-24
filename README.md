@@ -16,9 +16,9 @@ Java: A Beginner's Guide by Herbert Schildt
 | 9 | [Exception Handling](./src/chapter9) |
 | 10 | [Using I/O](./src/chapter10) |
 | 11 | [Multithreaded Programming](./src/chapter11) |
-| 12 | [Enumerations, Autoboxing, Static Import, and Annotations]|
-| 13 | [Generics] |
-| 14 | [Lambda Expressions and Method References] |
+| 12 | [Enumerations, Autoboxing, Static Import, and Annotations](./src/chapter12) |
+| 13 | [Generics](./src/chapter13) |
+| 14 | [Lambda Expressions and Method References](./src/chapter14) |
 | 15 | [Modules] |
 | 16 | [Introducing Swing] |
 | 17 | [Introducing JavaFX] |

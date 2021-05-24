@@ -32,6 +32,6 @@ public class Autoboxing {
         // Методът Math.sqrt() взима като аргумент обекта iObj, който се авторазопакова
         // и неговата стойност автоматично се преобразува в тип double, за да бъде извършено коренуване.
         iObj = 100;
-        System.out.println("Square root of iOb is: " + Math.sqrt(iObj));
+        System.out.println("Square root of iObj is: " + Math.sqrt(iObj));
     }
 }
