@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter14/CalculateFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/CalculateFactorialVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/FactorialVarTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/beginning/Beginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/beginning/MyBooleanValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/beginning/MyParamValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/beginning/MyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/beginning/MyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/capturingALocalVariable/MyFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/capturingALocalVariable/VarCapture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/changeTheString/LambdaArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/changeTheString/StringFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/numericTest/NumericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/numericTest/StartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/palindrome/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/palindrome/StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/quadraticEquation/CalculateTheRootsOfTheEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/quadraticEquation/MathInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/quadraticEquation/Mathematics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/range/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/range/StartRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceForAStaticMethod/IntPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceForAStaticMethod/MyIntPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceForAnInstanceMethod/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceForAnInstanceMethod/MyIntNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceOfConstructor/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceOfConstructor/MyFuncInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/referenceOfConstructor/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/smallest/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/smallest/NumericFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/someTest/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/someTest/StartSomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/stringTest/StartStrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/stringTest/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/throwingAnException/LambdaExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/throwingAnException/MyIOAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/throwingAnException/ProfitDefinition.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/usePredicatelnterface/UsePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/withArray/MyTransform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter14/withArray/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/MyModAppDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/mymodapp.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,11 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter13/constructor/Start.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/genericInterface/GenIFDemo.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/QueueFullException.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/QueueEmptyException.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/QueueOperations.java" />
         <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/GenQueue.java" />
         <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/CreateQueue.java" />
         <option value="$PROJECT_DIR$/src/chapter14/MyValue.java" />
@@ -122,6 +80,11 @@
         <option value="$PROJECT_DIR$/src/chapter14/quadraticEquation/Mathematics.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter14/quadraticEquation/CalculateTheRootsOfTheEquation.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/mymodapp/appsrc/appfuncs/appfuncs/simplefuncs/SimpleMathFuncs.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/mymodapp/appsrc/appstart/appstart/mymodappdemo/MyModAppDemo.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java" />
+        <option value="$PROJECT_DIR$/src/chapter15/MyModAppDemo.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -145,7 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,20 +124,13 @@
             </path>
             <path>
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculateTheRootsOfTheEquation">
+  <component name="RunManager" selected="Application.MyModAppDemo">
     <configuration name="CalculateTheRootsOfTheEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter14.quadraticEquation.CalculateTheRootsOfTheEquation" />
       <module name="JavaByH.Schildt" />
@@ -213,17 +170,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter14.quadraticEquation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.Factorial" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,6 +189,17 @@
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MyModAppDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter15.MyModAppDemo" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter14.palindrome.Palindrome" />
@@ -297,19 +254,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.FactorialVarTwo" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.CalculateTheRootsOfTheEquation" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyModAppDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyModAppDemo" />
         <item itemvalue="Application.CalculateTheRootsOfTheEquation" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.FactorialVarTwo" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +351,8 @@
       <workItem from="1625044251173" duration="2220000" />
       <workItem from="1625084853070" duration="2318000" />
       <workItem from="1625117745455" duration="15495000" />
+      <workItem from="1625166402279" duration="975000" />
+      <workItem from="1625205327391" duration="5807000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -514,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1624477135828</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added Chapter 14 - Lambda Expressions">
+      <created>1625166681566</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1625166681566</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="622574000" />
+    <option name="totallyTimeSpent" value="629356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -532,8 +498,8 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073206" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" weight="0.32913387" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33070865" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -543,8 +509,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -603,7 +569,8 @@
     <MESSAGE value="Added Chapter 12" />
     <MESSAGE value="Test" />
     <MESSAGE value="Added Chapter 13 [Generics] a problem: anotherQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 13 [Generics] a problem: anotherQueue" />
+    <MESSAGE value="Added Chapter 14 - Lambda Expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 14 - Lambda Expressions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,27 +604,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyBooleanValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyParamValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -848,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,13 +818,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14/palindrome.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter14/FactorialVarTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -956,12 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -976,6 +907,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/MyModAppDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
