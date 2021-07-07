@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter15/MyModAppDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter15/mymodapp.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someButton/MyButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someButton/StartAButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someCheckBox/NewCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someCheckBox/StartCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someLabel/MyLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someLabel/StartMyLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someSwingList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someSwingList/StartList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someTextField/SimpleTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/someTextField/StartText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,19 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/GenQueue.java" />
-        <option value="$PROJECT_DIR$/src/chapter13/anotherQueue/CreateQueue.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/MyValue.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/MyParamValue.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/MyBooleanValue.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/MyStrings.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/Beginning.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/beginning/Beginning.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/numericTest/NumericTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/numericTest/StartTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/stringTest/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/stringTest/StartStrTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/smallest/NumericFunction.java" />
         <option value="$PROJECT_DIR$/src/chapter14/smallest/Calculate.java" />
         <option value="$PROJECT_DIR$/src/chapter14/someTest/GenericInterfase.java" />
         <option value="$PROJECT_DIR$/src/chapter14/someTest/GenericInterface.java" />
@@ -85,6 +81,19 @@
         <option value="$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java" />
         <option value="$PROJECT_DIR$/src/chapter15/MyModAppDemo.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/chapter16/someLabel/MyLabel.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someLabel/StartMyLabel.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someButton/StartAButton.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someButton/MyButton.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someTextField/StartText.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someTextField/SimpleTextField.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someCheckBox/StartCheckBox.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someCheckBox/NewCheckBox.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someSwingList/StartList.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/someSwingList/MyList.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java" />
+        <option value="$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java" />
       </list>
     </option>
   </component>
@@ -109,7 +118,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +139,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,52 +171,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyModAppDemo">
-    <configuration name="CalculateTheRootsOfTheEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.quadraticEquation.CalculateTheRootsOfTheEquation" />
+  <component name="RunManager" selected="Application.StartCompare">
+    <configuration name="StartAButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.someButton.StartAButton" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.quadraticEquation.*" />
+          <option name="PATTERN" value="chapter16.someButton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FactorialVarTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.FactorialVarTwo" />
+    <configuration name="StartCheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.someCheckBox.StartCheckBox" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.*" />
+          <option name="PATTERN" value="chapter16.someCheckBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="MyModAppDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15.MyModAppDemo" />
+    <configuration name="StartCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.compareFiles.StartCompare" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15.*" />
+          <option name="PATTERN" value="chapter16.compareFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14.palindrome.Palindrome" />
+    <configuration name="StartList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.someSwingList.StartList" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14.palindrome.*" />
+          <option name="PATTERN" value="chapter16.someSwingList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StartText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.someTextField.StartText" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter16.someTextField.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +269,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FactorialVarTwo" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.CalculateTheRootsOfTheEquation" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MyModAppDemo" />
+      <item itemvalue="Application.StartAButton" />
+      <item itemvalue="Application.StartText" />
+      <item itemvalue="Application.StartCheckBox" />
+      <item itemvalue="Application.StartList" />
+      <item itemvalue="Application.StartCompare" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyModAppDemo" />
-        <item itemvalue="Application.CalculateTheRootsOfTheEquation" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.FactorialVarTwo" />
+        <item itemvalue="Application.StartCompare" />
+        <item itemvalue="Application.StartList" />
+        <item itemvalue="Application.StartCheckBox" />
+        <item itemvalue="Application.StartText" />
+        <item itemvalue="Application.StartAButton" />
       </list>
     </recent_temporary>
   </component>
@@ -353,6 +368,14 @@
       <workItem from="1625117745455" duration="15495000" />
       <workItem from="1625166402279" duration="975000" />
       <workItem from="1625205327391" duration="5807000" />
+      <workItem from="1625236067276" duration="180000" />
+      <workItem from="1625255972329" duration="754000" />
+      <workItem from="1625299269516" duration="608000" />
+      <workItem from="1625548025514" duration="4204000" />
+      <workItem from="1625570204201" duration="2022000" />
+      <workItem from="1625575578121" duration="6680000" />
+      <workItem from="1625634929851" duration="602000" />
+      <workItem from="1625673972428" duration="9503000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -480,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1625166681566</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added Chapter 15">
+      <created>1625236165287</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1625236165287</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629356000" />
+    <option name="totallyTimeSpent" value="653909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -570,7 +600,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Added Chapter 13 [Generics] a problem: anotherQueue" />
     <MESSAGE value="Added Chapter 14 - Lambda Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 14 - Lambda Expressions" />
+    <MESSAGE value="Added Chapter 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -604,133 +635,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/stringTest/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/stringTest/StartStrTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/numericTest/StartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/someTest/StartSomeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/someTest/GenericInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/smallest/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="127" selection-start-line="23" selection-start-column="127" selection-end-line="23" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/changeTheString/StringFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/capturingALocalVariable.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter14/changeTheString/LambdaArgument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/capturingALocalVariable/VarCapture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/capturingALocalVariable/MyFunc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/EnterACommandFromTheConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/MethodRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/FileInputStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/BufferedReaderClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/throwingAnException/ProfitDefinition.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/throwingAnException/MyIOAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/throwingAnException/LambdaExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter14/withArray.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter14/withArray/MyTransform.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -833,13 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/palindrome/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter14/palindrome/StringManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -858,13 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -910,24 +800,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter15/MyModAppDemo.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter15/SimpleMathFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter15/MyModAppDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/MyBooleanValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14/beginning/Beginning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14/palindrome/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/FindFac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someLabel/StartMyLabel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someLabel/MyLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someButton/StartAButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someTextField/StartText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someTextField/SimpleTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someButton/MyButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someCheckBox/StartCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someCheckBox/NewCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someSwingList/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/someSwingList/StartList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/ShowText.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter10/CompareFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

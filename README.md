@@ -19,6 +19,6 @@ Java: A Beginner's Guide by Herbert Schildt
 | 12 | [Enumerations, Autoboxing, Static Import, and Annotations](./src/chapter12) |
 | 13 | [Generics](./src/chapter13) |
 | 14 | [Lambda Expressions and Method References](./src/chapter14) |
-| 15 | [Modules] |
-| 16 | [Introducing Swing] |
-| 17 | [Introducing JavaFX] |
+| 15 | [Modules](./src/chapter15) |
+| 16 | [Introducing Swing](./src/chapter16) |
+| 17 | [Introducing JavaFX](./src/chapter17) |
