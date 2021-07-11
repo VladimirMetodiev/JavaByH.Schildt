@@ -16,7 +16,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class compareFiles extends Application {
+public class CompareFiles extends Application {
     private String theFirstFile = "";
     private String theSecondFile = "";
     private Label result = new Label();

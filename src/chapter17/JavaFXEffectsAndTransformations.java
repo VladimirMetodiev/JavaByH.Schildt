@@ -53,9 +53,9 @@ public class JavaFXEffectsAndTransformations extends Application {
         buttonScale.getTransforms().add(scale);                             // Добавям мащабиране в списъкът на трансформациите за бутон buttonScale
 
 
-        reflection.setTopOpacity(0.7);                                      // Поставям ефект рефлексия и етикет labelReflection
+        reflection.setTopOpacity(0.7);
         reflection.setBottomOpacity(0.3);
-        labelReflection.setEffect(reflection);
+        labelReflection.setEffect(reflection);                              // Поставям ефект рефлексия на етикет labelReflection
 
 
         buttonRotate.setOnAction(new EventHandler<ActionEvent>() {
