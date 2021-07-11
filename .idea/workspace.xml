@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a393b524-6fca-46da-9088-1b2b542c2ba4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someButton/MyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someButton/StartAButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someCheckBox/NewCheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someCheckBox/StartCheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someLabel/MyLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someLabel/StartMyLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someSwingList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someSwingList/StartList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someTextField/SimpleTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/someTextField/StartText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXEffectsAndTransformations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/JavaFXTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/MyFirstJavaFXApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter17/compareFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +21,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StartCompare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,14 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter14/smallest/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/someTest/GenericInterfase.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/someTest/GenericInterface.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/someTest/StartSomeTest.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/changeTheString/StringFunction.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/changeTheString/LambdaArgument.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/capturingALocalVariable/MyFunc.java" />
-        <option value="$PROJECT_DIR$/src/chapter14/capturingALocalVariable/VarCapture.java" />
         <option value="$PROJECT_DIR$/src/chapter14/throwingAnException/ProfitDefinition.txt" />
         <option value="$PROJECT_DIR$/src/chapter14/throwingAnException/LambdaExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/chapter14/throwingAnException/MyIOAction.java" />
@@ -94,6 +91,14 @@
         <option value="$PROJECT_DIR$/src/chapter16/someSwingList/MyList.java" />
         <option value="$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java" />
         <option value="$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/MyFirstJavaFXApplication.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXLabel.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXButtons.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXCheckBox.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXListView.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXTextField.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/JavaFXEffectsAndTransformations.java" />
+        <option value="$PROJECT_DIR$/src/chapter17/compareFiles.java" />
       </list>
     </option>
   </component>
@@ -117,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,17 +136,38 @@
             </path>
             <path>
               <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter16" type="462c0819:PsiDirectoryNode" />
+              <item name="compareFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaByH.Schildt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaByH.Schildt" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="hasNext&#9;PSI&#9;JAVA://chapter10.BreakOutOfWhileWithHasNext" />
+    <property name="SearchEverywhereHistoryKey" value="Application&#9;PSI&#9;JAVA://javafx.application.Application&#10;hasNext&#9;PSI&#9;JAVA://chapter10.BreakOutOfWhileWithHasNext" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -172,24 +196,46 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.StartCompare">
-    <configuration name="StartAButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.someButton.StartAButton" />
+    <configuration name="JavaFXButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.JavaFXButtons" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.someButton.*" />
+          <option name="PATTERN" value="chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StartCheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.someCheckBox.StartCheckBox" />
+    <configuration name="JavaFXCheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.JavaFXCheckBox" />
       <module name="JavaByH.Schildt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter16.someCheckBox.*" />
+          <option name="PATTERN" value="chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaFXLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.JavaFXLabel" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaFXListView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter17.JavaFXListView" />
+      <module name="JavaByH.Schildt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,28 +247,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter16.compareFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StartList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.someSwingList.StartList" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter16.someSwingList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StartText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter16.someTextField.StartText" />
-      <module name="JavaByH.Schildt" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter16.someTextField.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,19 +293,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StartAButton" />
-      <item itemvalue="Application.StartText" />
-      <item itemvalue="Application.StartCheckBox" />
-      <item itemvalue="Application.StartList" />
+      <item itemvalue="Application.JavaFXLabel" />
+      <item itemvalue="Application.JavaFXButtons" />
+      <item itemvalue="Application.JavaFXCheckBox" />
+      <item itemvalue="Application.JavaFXListView" />
       <item itemvalue="Application.StartCompare" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StartCompare" />
-        <item itemvalue="Application.StartList" />
-        <item itemvalue="Application.StartCheckBox" />
-        <item itemvalue="Application.StartText" />
-        <item itemvalue="Application.StartAButton" />
+        <item itemvalue="Application.JavaFXListView" />
+        <item itemvalue="Application.JavaFXCheckBox" />
+        <item itemvalue="Application.JavaFXButtons" />
+        <item itemvalue="Application.JavaFXLabel" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +399,13 @@
       <workItem from="1625570204201" duration="2022000" />
       <workItem from="1625575578121" duration="6680000" />
       <workItem from="1625634929851" duration="602000" />
-      <workItem from="1625673972428" duration="9503000" />
+      <workItem from="1625673972428" duration="10272000" />
+      <workItem from="1625723203574" duration="309000" />
+      <workItem from="1625738177585" duration="2161000" />
+      <workItem from="1625759509155" duration="5548000" />
+      <workItem from="1625808039131" duration="5441000" />
+      <workItem from="1625888697466" duration="8564000" />
+      <workItem from="1625987120657" duration="7907000" />
     </task>
     <task id="LOCAL-00001" summary="Added Chapter 1">
       <created>1614508976028</created>
@@ -510,14 +540,22 @@
       <option name="project" value="LOCAL" />
       <updated>1625236165287</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added Chapter 16 - Swing">
+      <created>1625690649335</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1625690649335</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="653909000" />
+    <option name="totallyTimeSpent" value="684608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -528,25 +566,25 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073206" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33070865" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49926794" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33070865" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +639,8 @@
     <MESSAGE value="Added Chapter 13 [Generics] a problem: anotherQueue" />
     <MESSAGE value="Added Chapter 14 - Lambda Expressions" />
     <MESSAGE value="Added Chapter 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 15" />
+    <MESSAGE value="Added Chapter 16 - Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chapter 16 - Swing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,62 +674,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter14/withArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter14/withArray/MyTransform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/referenceForAnInstanceMethod/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/referenceForAnInstanceMethod/MyIntNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/withArray/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/referenceOfConstructor/MyFuncInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/referenceOfConstructor/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14/referenceOfConstructor/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/SpaceToHyphenVarTwo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/SpaceToHyphen.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/text/Words.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -898,9 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,9 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,10 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,9 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,9 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,16 +916,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/text/ShowText.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/CompareFiles.java">
@@ -968,10 +929,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_281/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/MyFirstJavaFXApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXEffectsAndTransformations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter16/compareFiles/SwingCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/CopyOfShowText2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/compareFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" lean-forward="true" selection-start-line="158" selection-end-line="158" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXButtons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17/JavaFXListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -980,12 +1032,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter16/compareFiles/StartCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
